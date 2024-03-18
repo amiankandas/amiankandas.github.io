@@ -1,1 +1,1 @@
-# amiankandas.github.io
+# Rock paper scissor
